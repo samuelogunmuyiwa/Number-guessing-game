@@ -5,6 +5,10 @@ body {
 	margin: auto;
 	padding-top: 30px;
 
+}
 
+#userInput{
+	width: 150px;
+	height: 25px;
 
 }
